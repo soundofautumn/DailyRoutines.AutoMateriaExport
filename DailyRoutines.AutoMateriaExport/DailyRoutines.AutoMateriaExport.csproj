@@ -50,6 +50,7 @@
     <!-- 修改成你自己的 DR 路径 -->
     <PropertyGroup>
         <DailyRoutinesPath>C:\Users\qjming\AppData\Roaming\XIVLauncherCN\installedPlugins\DailyRoutines\1.6.7.0\</DailyRoutinesPath>
+        <TargetFramework>net9.0-windows7.0</TargetFramework>
     </PropertyGroup>
 
     <ItemGroup>
