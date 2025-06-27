@@ -6,7 +6,7 @@ using FFXIVClientStructs.FFXIV.Client.Game;
 using FFXIVClientStructs.FFXIV.Client.Game.Control;
 using Lumina.Excel.Sheets;
 
-namespace DailyRoutines.ModuleTemplate;
+namespace DailyRoutines.AutoMateriaExport;
 
 public class AutoSoulsowModuleTemplate : DailyModuleBase
 {
