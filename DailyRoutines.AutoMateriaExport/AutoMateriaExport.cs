@@ -8,12 +8,12 @@ using Lumina.Excel.Sheets;
 
 namespace DailyRoutines.AutoMateriaExport;
 
-public class AutoSoulsowModuleTemplate : DailyModuleBase
+public class AutoMateriaExport : DailyModuleBase
 {
     public override ModuleInfo Info { get; } = new()
     {
-        Title       = GetLoc("AutoSoulsowTitle"),
-        Description = GetLoc("AutoSoulsowDescription"),
+        Title       = GetLoc("AutoMateriaExport"),
+        Description = GetLoc("AutoMateriaExportDescription"),
         Category    = ModuleCategories.Action,
     };
 
