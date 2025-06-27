@@ -8,6 +8,7 @@
         <IsPackable>false</IsPackable>
         <Title>Daily Routines Module Template</Title>
         <Configurations>Debug;Release</Configurations>
+        <RootNamespace>DailyRoutines.ModuleTemplate</RootNamespace>
     </PropertyGroup>
 
     <PropertyGroup>
